@@ -9,9 +9,11 @@ body {
   color: white;
 }
 
-.head {
-  line-height: 100px;
+.container {
+  height: 100vh;
 }
 
-.head-icon {
+.head {
+  text-align: right;
+  line-height: 150px;
 }
