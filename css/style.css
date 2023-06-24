@@ -48,6 +48,24 @@ button {
 
 footer {
   height: 80px;
+
   display: flex;
+  align-items: center;
   justify-content: space-between;
+}
+
+.foot-icon {
+  display: flex;
+  font-size: 1.5rem;
+}
+.icon {
+  justify-content: space-between;
+  margin: 0 10px;
+}
+
+.icon-end {
+  font-size: 0.8rem;
+  background-color: grey;
+  padding: 20px 20px;
+  color: red;
 }
